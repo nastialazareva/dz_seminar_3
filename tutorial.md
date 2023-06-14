@@ -18,11 +18,7 @@
 
 ## Цитаты
 
-<<<<<<< HEAD
-кошка, собака, прием!
-=======
 Цитаты оформляются как в емейлах, с помощью символа `>`.
->>>>>>> quotes
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
